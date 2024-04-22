@@ -1,8 +1,6 @@
-这个版本进行的是theta_to_ks 的修改
-改为：    
-theta1_ks=fai;
-theta2_ks=k*s/2;
-d3_ks=2/k*sin(k*s/2);
-theta4_ks=k*s/2;
-theta5_ks=-fai;
-运行正确
+This is code designed for simulating continuum robots, implemented in MATLAB language without reliance on any third-party libraries, making it directly executable on the MATLAB platform. It serves dual purposes: it can solve for the end-effector pose of a multi-segment continuum robot given the lengths of the driving cables, and conversely, it can iteratively solve for the cable lengths required to achieve a desired end-effector pose using the Jacobian matrix method. For a detailed demonstration of its functionality and an analysis of the underlying principles, please refer to my Zhihu blog post at: https://zhuanlan.zhihu.com/p/638117473
+
+It's worth noting that the current implementation has some inadequacies in the section of code pertaining to the driving cables, which may prevent the attainment of certain target poses through inverse kinematics calculations.
+
+这是用来仿真连续体机器人的代码（可以给定驱动绳索的长度求解多节连续体机器人末端位姿，也可以给定末端位姿通过雅可比矩阵迭代求解驱动绳索长度），使用matlab语言编写，不依赖任何第三方库，可以直接在matlab平台运行，具体效果展示以及原理分析见我的知乎网站主页：https://zhuanlan.zhihu.com/p/638117473 
+当然，目前驱动绳索部分代码有一些不完善，导致有的目标位姿无法通过逆向运动学得到
