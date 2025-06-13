@@ -15,19 +15,9 @@ It's worth noting that the current implementation has some inadequacies in the s
 
 6.如果有用希望   右上角点个star
 
-Version:1.0StartHTML:0000000193EndHTML:0000043154StartFragment:0000041739EndFragment:0000043114SourceURL:file:///D:/A_desktop/研究/连续体毕设/word文字稿/github_readme.docx<style></style>
 
 实现效果举例
 ![Image Alt Text](https://github.com/JiaLongLiLi/continuum-robot/blob/main/images/github_readme_Page1.png)
-![Image Alt Text]
-
-
-![](file:///D:/A_desktop/%E7%A0%94%E7%A9%B6/%E8%BF%9E%E7%BB%AD%E4%BD%93%E6%AF%95%E8%AE%BE/word%E6%96%87%E5%AD%97%E7%A8%BF/github_readme_Page1.png)
-
-![](file:///D:/A_desktop/%E7%A0%94%E7%A9%B6/%E8%BF%9E%E7%BB%AD%E4%BD%93%E6%AF%95%E8%AE%BE/word%E6%96%87%E5%AD%97%E7%A8%BF/github_readme_Page2.png)
-
-![](file:///D:/A_desktop/%E7%A0%94%E7%A9%B6/%E8%BF%9E%E7%BB%AD%E4%BD%93%E6%AF%95%E8%AE%BE/word%E6%96%87%E5%AD%97%E7%A8%BF/github_readme_Page3.png)
-
-
-
+![Image Alt Text](https://github.com/JiaLongLiLi/continuum-robot/blob/main/images/github_readme_Page2.png)
+![Image Alt Text](https://github.com/JiaLongLiLi/continuum-robot/blob/main/images/github_readme_Page3.png)
 
